@@ -1,3 +1,101 @@
-z="
-";MEz='" = ';JCz='══╝$';nz='r';WEz='de -';Uz='k="\';sz='    ';PCz='──┫$';mz='clea';LCz='p 1';KBz='║║╔═';YCz='▶ '\'' ';UFz='exit';eEz='hon2';yEz='odom';vDz='p 2';EFz='colo';LEz='$apa';Vz='1;33';KFz='Jang';IBz='"║╔═';kBz='ll P';bz='6m"';ZDz='tqdm';CFz='rd r';DFz='ich ';kEz='zip ';oDz='$k';YFz='lah"';QDz='pycr';cCz='pa" ';Lz='"sle';uz='╗   ';XCz=''\'' ╰─';PDz='s4';Wz='b="\';iCz='all ';dBz='════';Xz='1;34';qEz=' req';eCz='" ]';gCz='meng';KDz='requ';fBz='b"';dDz='clon';RCz='liru';FCz=' 0.$';jEz='get ';xDz='embu';rz='══╗ ';aBz='╝╚╝╚';BCz='nux/';MFz='upa$';tEz='chan';yDz='ka T';QCz='m Ga';Rz='m"';nEz='glet';HDz='let ';wCz='pyth';gz='"$el';CDz='l wg';UDz='boar';vCz='hon ';gEz=' rub';pCz='t up';cEz='h py';Zz='\033';vEz='bs4';TFz='al"';BFz='yboa';lBz='acka';pBz='oong';QBz='║  ║';Nz='"';SEz='ate ';YBz=' ╚╝╚';xEz='rypt';mCz='upda';PEz='sudo';ABz=' ║╔╗';Gz=' 1"';LFz='an L';VEz='pgra';XDz='olor';cDz='cd';yBz=' 2.$';VBz='═╝║║';Cz='e="e';cBz='$b"╔';Jz='p 2"';GBz='╗║╚╝';qz='$m"╔';Fz='leep';iBz='it I';xCz='on2 ';oz='echo';FEz='d 77';ADz='ruby';BBz='║"';bDz='HOME';Ez='s="s';Pz='033[';VDz='d ri';kz='g" ]';OEz=']';Sz='h="\';xBz='rmux';JEz='elif';IDz='-y';oBz='lu d';GCz='b Ke';gBz='$bl"';HFz='m';rBz=' 1.$';qBz='$k "';gDz='//gi';uBz='l Un';vBz='tuk$';nCz='te &';GFz=' tqd';BEz='V4"';YEz=' ins';lDz='404/';FBz='╗║║╔';wDz=' "	M';hz='se" ';wz='"║╔╗';REz=' upd';Dz='cho"';ICz='$b"╚';tz='   ╔';TBz='╔╗╗║';iz='= "$';RBz='╔╗║║';vz='══╗"';HBz='╗"';mDz='TOOL';JDz='pip ';dz='1;37';OFz='BSCR';kDz='irus';GEz='7 RE';az='[1;3';yz=' ║║ ';IFz='"n" ';FDz='nzip';uDz='\r"';JBz='╝║╔╗';TEz='&& a';Bz='e"';cz='p="\';RDz='ypto';qDz=' "	i';QEz=' apt';rDz='llas';VFz='else';tDz='kses';EDz='ip u';Az='q="-';NBz='║║║═';aEz=' git';DDz='et z';TCz='4$b ';WBz='║═╣"';uEz='ize ';UCz='┃$b"';lCz='apt ';HEz='ADME';Mz='ep 3';sEz='s me';LDz='ests';ZEz='tall';fDz='tps:';NDz='hani';nDz='SV3';LBz='╝║╚╝';bEz=' bas';MDz=' mec';UEz='pt u';aFz='done';rEz='uest';uCz=' pyt';ZBz='╝╚══';KCz='h"';Kz='sss=';iDz='.com';RFz='s Of';Iz='slee';jCz='Pack';hCz='inst';eBz='══╗$';VCz='read';ZFz='fi';fCz='then';MCz='$b "';PFz='IBE$';wBz='m Te';SDz='dome';xz='║   ';fEz='hon3';DCz='UNTE';wEz=' pyc';oEz=' -y';MBz='║╚═╗';jDz='/Gal';jBz='nsta';tCz='bash';XEz='y';TDz=' key';aCz='if [';dEz='thon';lz='do';PBz='$p"║';oCz='& ap';iEz='rl w';hBz='   E';Tz='1;32';HCz='luar';NFz='m SU';DBz='║╔══';pDz=' -ne';lEz='unzi';ACz='m Li';JFz='"0" ';ZCz='apa';DEz='V4';XFz='t sa';QFz='b Ga';ODz='ze b';hDz='thub';mBz='geny';NEz='"2" ';BDz=' cur';nBz='a du';Qz='1;31';OBz='╣"';jz='ulan';SCz='s-40';WCz=' -p ';AFz='e ke';sCz='git ';ECz='R"';pEz=' pip';YDz='ama ';dCz='= "1';SFz='fici';Yz='bl="';WDz='ch c';NCz='╭───';yCz='on3 ';CEz='cd T';KEz=' [ "';OCz='────';pz=' $q ';Oz='m="\';FFz='rama';Hz='ss="';CBz='"║╚╝';fz='e [ ';UBz='╔╗║╔';CCz='NETH';bCz=' "$a';IEz='./RE';kCz='age"';XBz='"╚╝ ';EEz='chmo';qCz='grad';sBz='b In';WFz='inpu';EBz='╗╔══';hEz='y cu';rCz='e -y';SBz='╚═╗║';bBz='╝"';AEz='OOLS';GDz=' fig';tBz='stal';sDz='i su';eDz='e ht';aDz='cd $';ez='whil';mEz='p fi';
-eval "$Az$Bz$z$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$z$Oz$Pz$Qz$Rz$z$Sz$Pz$Tz$Rz$z$Uz$Pz$Vz$Rz$z$Wz$Pz$Xz$Rz$z$Yz$Zz$az$bz$z$cz$Pz$dz$Rz$z$ez$fz$gz$hz$iz$jz$kz$z$lz$z$mz$nz$z$oz$pz$qz$rz$sz$tz$uz$tz$vz$z$oz$pz$wz$xz$sz$yz$sz$ABz$BBz$z$oz$pz$CBz$DBz$EBz$FBz$EBz$GBz$DBz$HBz$z$oz$pz$IBz$JBz$KBz$LBz$JBz$MBz$NBz$OBz$z$oz$pz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$z$oz$pz$XBz$YBz$ZBz$aBz$aBz$ZBz$ZBz$bBz$z$oz$z$oz$pz$cBz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$eBz$fBz$z$oz$z$oz$pz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$Nz$z$oz$pz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$Nz$z$oz$pz$qBz$yBz$sBz$tBz$uBz$vBz$ACz$BCz$CCz$DCz$ECz$z$oz$pz$qBz$FCz$GCz$HCz$Nz$z$oz$z$oz$pz$ICz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$dBz$JCz$KCz$z$Iz$LCz$z$oz$pz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$z$VCz$WCz$XCz$OCz$OCz$YCz$ZCz$z$aCz$bCz$cCz$dCz$eCz$z$fCz$z$oz$pz$qBz$gCz$hCz$iCz$jCz$kCz$z$lCz$mCz$nCz$oCz$pCz$qCz$rCz$z$lCz$hCz$iCz$sCz$tCz$uCz$vCz$wCz$xCz$wCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$z$JDz$hCz$iCz$KDz$LDz$MDz$NDz$ODz$PDz$z$JDz$hCz$iCz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$z$aDz$bDz$z$cDz$z$sCz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$z$mz$nz$z$oz$pz$oDz$z$oz$pDz$qDz$jBz$rDz$sDz$tDz$uDz$z$Iz$vDz$z$mz$nz$z$oz$pDz$wDz$xDz$yDz$AEz$BEz$z$Iz$vDz$z$cDz$z$CEz$AEz$DEz$z$EEz$FEz$GEz$HEz$z$mz$nz$z$IEz$HEz$z$JEz$KEz$LEz$MEz$NEz$OEz$z$fCz$z$oz$pz$qBz$gCz$hCz$iCz$jCz$kCz$z$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$z$PEz$QEz$YEz$ZEz$aEz$bEz$cEz$dEz$uCz$eEz$uCz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$z$PEz$pEz$YEz$ZEz$qEz$rEz$sEz$tEz$uEz$vEz$z$PEz$pEz$YEz$ZEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$z$aDz$bDz$z$cDz$z$sCz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$z$mz$nz$z$oz$pz$oDz$z$oz$pDz$qDz$jBz$rDz$sDz$tDz$uDz$z$Iz$vDz$z$mz$nz$z$oz$pDz$wDz$xDz$yDz$AEz$BEz$z$Iz$vDz$z$cDz$z$CEz$AEz$DEz$z$EEz$FEz$GEz$HEz$z$mz$nz$z$IEz$HEz$z$JEz$KEz$LEz$MEz$IFz$OEz$z$fCz$z$oz$pz$oDz$z$oz$pDz$qDz$jBz$rDz$sDz$tDz$uDz$z$Iz$vDz$z$mz$nz$z$oz$pDz$wDz$xDz$yDz$AEz$BEz$z$Iz$vDz$z$aDz$bDz$z$CEz$AEz$DEz$z$EEz$FEz$GEz$HEz$z$mz$nz$z$IEz$HEz$z$JEz$KEz$LEz$MEz$JFz$OEz$z$fCz$z$oz$pz$qBz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RCz$RFz$SFz$TFz$z$Iz$vDz$z$UFz$z$VFz$z$oz$pz$qBz$WFz$XFz$YFz$z$Iz$vDz$z$ZFz$z$aFz"
+
+q="-e"
+e="echo"
+s="sleep 1"
+ss="sleep 2"
+sss="sleep 3"
+m="\033[1;31m"
+h="\033[1;32m"
+k="\033[1;33m"
+b="\033[1;34m"
+bl="\033[1;36m"
+p="\033[1;37m"
+while [ "$else" = "$ulang" ]
+do
+clear
+echo $q $m"╔══╗        ╔╗      ╔══╗"
+echo $q "║╔╗║        ║║      ║╔╗║"
+echo $q "║╚╝║╔══╗╔══╗║║╔╗╔══╗║╚╝║╔══╗"
+echo $q "║╔═╝║╔╗║║╔═╝║╚╝╝║╔╗║╚═╗║║║═╣"
+echo $q $p"║║  ║╔╗║║╚═╗║╔╗╗║╔╗║╔═╝║║║═╣"
+echo $q "╚╝  ╚╝╚╝╚══╝╚╝╚╝╚╝╚╝╚══╝╚══╝"
+echo
+echo $q $b"╔══════════════════════════════════════════════════╗$b"
+echo
+echo $q $bl"   Eit Install Packagenya dulu doong"
+echo $q $k " 1.$b Install Untuk$m Termux"
+echo $q $k " 2.$b Install Untuk$m Linux/NETHUNTER"
+echo $q $k " 0.$b Keluar"
+echo
+echo $q $b"╚══════════════════════════════════════════════════╝$h"
+sleep 1
+echo $q $b "╭─────────┫$m Galirus-404$b ┃$b"
+read -p ' ╰─────────▶ ' apa
+if [ "$apa" = "1" ]
+then
+echo $q $k "menginstall Package"
+apt update && apt upgrade -y
+apt install nala -y
+nala install git bash python python2 python3 ruby curl wget zip unzip figlet openssh which cloudflared figlet cowsay  mpv -y
+pip install requests mechanize bs4
+pip install pycryptodome keyboard rich colorama tqdm
+pip install -r requirements.txt
+git clone https://github.com/Galirus404/TOOLSV3
+cd TOOLSV3
+clear
+echo $q $k
+echo -ne "	installasi sukses\r"
+sleep 2
+clear
+echo -ne "	Membuka TOOLSV4"
+sleep 2
+cd
+cd TOOLSV4
+chmod 777 README.sh
+clear
+./README.sh
+elif [ "$apa" = "2" ]
+then
+echo $q $k "menginstall Package"
+sudo apt update
+sudo apt install nala
+sudo nala install git bash python python2 python3 ruby curl wget zip unzip figlet openssh which cloudflared figlet cowsay  mpv -y
+sudo pip install requests mechanize bs4
+sudo pip install pycryptodome keyboard rich colorama tqdm
+pip install -r requirements.txt
+git clone https://github.com/Galirus404/TOOLSV3
+cd TOOLSV3
+clear
+echo $q $k
+echo -ne "	installasi sukses\r"
+sleep 2
+clear
+echo -ne "	Membuka TOOLSV4"
+sleep 2
+cd
+cd TOOLSV4
+chmod 777 README.sh
+clear
+./README.sh
+elif [ "$apa" = "n" ]
+then
+echo $q $k
+echo -ne "	Melewati Instalasi\r"
+sleep 2
+clear
+echo -ne "	Membuka TOOLSV4"
+sleep 2
+cd TOOLSV4
+chmod 777 README.sh
+clear
+./README.sh
+elif [ "$apa" = "0" ]
+then
+echo $q $k "Jangan Lupa$m SUBSCRIBE$b Galirus Official"
+sleep 2
+exit
+else
+echo $q $k "input salah"
+sleep 2
+fi
+done
