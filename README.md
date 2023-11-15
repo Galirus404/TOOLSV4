@@ -34,7 +34,7 @@
 		<hr><br>
 			<audio controls="controls" autoplay="true" loop="loop" src="https://f.top4top.io/m_281671oom2.mp3"></audio>
 	</i>
-<script>
+
 pkg update && pkg upgrade
 
 pkg install bash git -y
@@ -46,7 +46,3 @@ git clone https://github.com/Galirus404/TOOLSV4
 cd TOOLSV4
 
 bash install.sh
-
-	</script>
-	</body>
-</html>
