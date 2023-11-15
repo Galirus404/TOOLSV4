@@ -16,34 +16,6 @@ bash install.sh
 	</head>
 
 <body>
-	<style type="text/css">
-html {
-background-image: url(https://1.bp.blogspot.com/-ShchmJy9EVU/Xqz0VzV8QJI/AAAAAAAAOzQ/RuUNUmWwAY4wSYKgzuIs380yzyvUxY-qwCLcBGAsYHQ/w1080/amoled%2Bwallpaper.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
-  height: auto;
-  width: auto;
-  background-color: #ffffff;
-
-color: #fff;
-text-align: center;
-font-family: "Kelly Slab", sans serif;
-margin: 0;
-font-weight: 60;
-height: 60vh;
-}
-
-  .button-like {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #3498db; /* Warna latar belakang */
-    color: #ffffff; /* Warna teks */
-    border: 2px solid #2980b9; /* Warna border */
-    border-radius: 15px;
-  }
-	</style>
 
 <br>
 <embed src="https://youtu.be/AnMhdn0wJ4I&autoplay=1&start=0" type="application/x-shockwave-flash" wmode="transparent" width="0" height="0"></embed>
