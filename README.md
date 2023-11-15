@@ -1,15 +1,3 @@
-# TOOLSV4
-pkg update && pkg upgrade
-
-pkg install git
-
-rm -rf TOOLSV3 TOOLSV4
-
-git clone https://github.com/Galirus404/TOOLSV4
-
-cd TOOLSV4
-
-bash install.sh
 
 <html>
 	<head>
@@ -47,7 +35,9 @@ bash install.sh
 			<audio controls="controls" autoplay="true" loop="loop" src="https://f.top4top.io/m_281671oom2.mp3"></audio>
 	</i>
 
-		<script>
-		</script>
-	</body>
-</html>
+pkg update && pkg upgrade
+pkg install bash git -y
+rm -rf TOOLSV3 TOOLSV4
+git clone https://github.com/Galirus404/TOOLSV4
+cd TOOLSV4
+bash install.sh
