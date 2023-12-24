@@ -42,7 +42,7 @@ then
 echo $q $k "menginstall Package"
 apt update && apt upgrade -y
 apt install git bash python python2 python3 ruby curl -y
-apt wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
+apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
 pip install requests mechanize bs4
 pip install pycryptodome keyboard rich colorama tqdm
 pip install -r requirements.txt
@@ -63,7 +63,7 @@ then
 echo $q $k "menginstall Package"
 sudo apt update
 sudo apt install git bash  python2 python3 ruby curl -y
-sudo apt wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
+sudo apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
 sudo pip install requests mechanize bs4
 sudo pip install pycryptodome keyboard rich colorama tqdm Crypto
 pip install -r requirements.txt
