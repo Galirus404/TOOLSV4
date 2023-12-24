@@ -15,7 +15,7 @@ do
 clear
 echo $q $bl "[$m SUBSCRIBE$bl ]$b>$k dulu Channel Saya$bl :)"
 sleep 3
-$url "https://www.youtube.com/@GalirusOfficial"
+termux-open "https://www.youtube.com/@GalirusOfficial"
 sleep 2
 clear
 clear
