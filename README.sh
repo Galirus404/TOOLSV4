@@ -10,5 +10,7 @@ h="\033[1;32m"
 k="\033[1;33m"
 b="\033[1;34m"
 bl="\033[1;36m"
-p="\033[1;37m"																													passwd="dosatol" 																												
+p="\033[1;37m"																													passwd="dosatol" 		
+
 $e $q $k "Sementara ini TOOLSV4 lagi\nPengembangan Mohon Kembali lain waktu "
+read -p ""
