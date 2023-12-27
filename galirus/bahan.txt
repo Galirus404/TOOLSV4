@@ -1,0 +1,5 @@
+requests
+phonenumbers
+colorama
+datetime
+rich
