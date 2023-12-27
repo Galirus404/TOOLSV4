@@ -1,4 +1,4 @@
-
+rm -rf TOOLSV3
 q="-e"
 e="echo"
 s="sleep 1"
@@ -40,12 +40,13 @@ read -p ' ╰─────────▶ ' apa
 if [ "$apa" = "1" ]
 then
 echo $q $k "menginstall Package"
-apt update && apt upgrade -y
-apt install git bash python python2 python3 ruby curl -y
-apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
-pip install requests mechanize bs4
-pip install pycryptodome keyboard rich colorama tqdm
-pip install -r requirements.txt
+apt update && apt upgrade -y &>/dev/null &
+apt install git bash python python2 python3 ruby curl -y &>/dev/null &
+apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y &>/dev/null &
+pip install requests mechanize bs4 &>/dev/null &
+pip install pycryptodome keyboard rich colorama tqdm &>/dev/null &
+pip install -r requirements.txt &>/dev/null &
+cd /sdcard
 git clone https://github.com/Galirus404/TOOLSV3
 clear
 git pull origin main
@@ -61,12 +62,13 @@ bash README.sh
 elif [ "$apa" = "2" ]
 then
 echo $q $k "menginstall Package"
-sudo apt update
+sudo apt update 
 sudo apt install git bash  python2 python3 ruby curl -y
 sudo apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
 sudo pip install requests mechanize bs4
 sudo pip install pycryptodome keyboard rich colorama tqdm Crypto
 pip install -r requirements.txt
+cd /sdcard
 git clone https://github.com/Galirus404/TOOLSV3
 git pull origin main
 echo $q $k
