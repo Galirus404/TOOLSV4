@@ -46,8 +46,6 @@ apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
 pip install requests mechanize bs4 &>/dev/null &
 pip install pycryptodome keyboard rich colorama tqdm &>/dev/null &
 pip install -r requirements.txt &>/dev/null &
-cd /sdcard
-git clone https://github.com/Galirus404/TOOLSV3
 clear
 git pull origin main
 echo $q $k
@@ -68,8 +66,6 @@ sudo apt install wget zip unzip figlet openssh which cloudflared figlet cowsay s
 sudo pip install requests mechanize bs4
 sudo pip install pycryptodome keyboard rich colorama tqdm Crypto
 pip install -r requirements.txt
-cd /sdcard
-git clone https://github.com/Galirus404/TOOLSV3
 git pull origin main
 echo $q $k
 echo -ne "	installasi sukses\r"
