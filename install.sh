@@ -23,6 +23,7 @@ git stash
 git clone https://github.com/Galirus404/sound
 cd sound
 bash setup.sh
+cd $HOME/TOOLSV4
 while [ "$else" = "$ulang" ]
 do
 clear
