@@ -10,20 +10,6 @@ k="\033[1;33m"
 b="\033[1;34m"
 bl="\033[1;36m"
 p="\033[1;37m"
-git add README.sh
-git stash
-git pull origin main
-git add README.sh
-git stash
-git add README.sh
-git stash
-git pull origin master
-git add README.sh
-git stash
-git clone https://github.com/Galirus404/sound
-cd sound
-bash setup.sh
-cd $HOME/TOOLSV4
 while [ "$else" = "$ulang" ]
 do
 clear
@@ -54,58 +40,59 @@ read -p ' ╰─────────▶ ' apa
 if [ "$apa" = "1" ]
 then
 echo $q $k "menginstall Package"
-apt update && apt upgrade -y 
-apt install git bash python python2 python3 ruby curl -y 
-gem install lolcat
-apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
-pip install requests mechanize bs4 
-pip install pycryptodome keyboard rich colorama tqdm 
-pip install termcolor
-pip install -r requirements.txt 
+apt update && apt upgrade -y &>/dev/null &
+apt install git bash python python2 python3 ruby curl -y &>/dev/null &
+apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y &>/dev/null &
+pip install requests mechanize bs4 &>/dev/null &
+pip install pycryptodome keyboard rich colorama tqdm &>/dev/null &
+pip install -r requirements.txt &>/dev/null &
 clear
-
-echo $q $k
-echo -ne "	installasi sukses\r"
-sleep 2
-clear
-echo -ne "	Membuka TOOLSV4"
-sleep 2
-chmod 777 README.sh
-clear
-bash README.sh  
-elif [ "$apa" = "2" ]
-then
-
-echo $q $k "menginstall Package"
-sudo apt update 
-sudo apt install git bash  python2 python3 ruby curl -y
-gem install lolcat
-sudo apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
-sudo pip install requests mechanize bs4
-sudo pip install pycryptodome keyboard rich colorama tqdm Crypto
-pip3 install termcolor
-pip3 install -r requirements.txt
-
-
-echo $q $k
-echo -ne "	installasi sukses\r"
-sleep 2
-clear
-echo -ne "	Membuka TOOLSV4"
-sleep 2
-chmod 777 README.sh
-clear
-bash README.sh  
-elif [ "$apa" = "n" ]
-then
 git add README.sh
 git stash
 git pull origin main
 git add README.sh
 git stash
+
+echo $q $k
+echo -ne "	installasi sukses\r"
+sleep 2
+clear
+echo -ne "	Membuka TOOLSV4"
+sleep 2
+chmod 777 README.sh
+clear
+$e $q $h "SALIN PASSWORD INI : TOOLSV4"
+openssl enc -d -aes-256-cbc -in README.sh | bash
+elif [ "$apa" = "2" ]
+then
+echo $q $k "menginstall Package"
+sudo apt update 
+sudo apt install git bash  python2 python3 ruby curl -y
+sudo apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
+sudo pip install requests mechanize bs4
+sudo pip install pycryptodome keyboard rich colorama tqdm Crypto
+pip install -r requirements.txt
 git add README.sh
 git stash
-git pull origin master
+git pull origin main
+git add README.sh
+git stash
+
+echo $q $k
+echo -ne "	installasi sukses\r"
+sleep 2
+clear
+echo -ne "	Membuka TOOLSV4"
+sleep 2
+chmod 777 README.sh
+clear
+$e $q $h "SALIN PASSWORD INI : TOOLSV4"
+openssl enc -d -aes-256-cbc -in README.sh | bash
+elif [ "$apa" = "n" ]
+then
+git add README.sh
+git stash
+git pull origin main
 git add README.sh
 git stash
 
@@ -117,7 +104,8 @@ echo -ne "	Membuka TOOLSV4"
 sleep 2
 chmod 777 README.sh
 clear
-bash README.sh  
+$e $q $h "SALIN PASSWORD INI : TOOLSV4"
+openssl enc -d -aes-256-cbc -in README.sh | bash
 elif [ "$apa" = "0" ]
 then
 echo $q $k "Jangan Lupa$m SUBSCRIBE$b Galirus Official"
