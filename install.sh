@@ -1,4 +1,5 @@
 rm -rf TOOLSV3
+termux-setup-storage
 q="-e"
 e="echo"
 s="sleep 1"
