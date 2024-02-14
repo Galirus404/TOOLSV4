@@ -62,8 +62,7 @@ echo -ne "	Membuka TOOLSV4"
 sleep 2
 chmod 777 README.sh
 clear
-$e $q $h "SALIN PASSWORD INI : TOOLSV4"
-openssl enc -d -aes-256-cbc -in README.sh | bash
+bash README.sh
 elif [ "$apa" = "2" ]
 then
 echo $q $k "menginstall Package"
@@ -88,8 +87,7 @@ echo -ne "	Membuka TOOLSV4"
 sleep 2
 chmod 777 README.sh
 clear
-$e $q $h "SALIN PASSWORD INI : TOOLSV4"
-openssl enc -d -aes-256-cbc -in README.sh | bash
+bash README.sh
 elif [ "$apa" = "n" ]
 then
 git add README.sh
@@ -106,8 +104,7 @@ echo -ne "	Membuka TOOLSV4"
 sleep 2
 chmod 777 README.sh
 clear
-$e $q $h "SALIN PASSWORD INI : TOOLSV4"
-openssl enc -d -aes-256-cbc -in README.sh | bash
+bash README.sh
 elif [ "$apa" = "0" ]
 then
 echo $q $k "Jangan Lupa$m SUBSCRIBE$b Galirus Official"
