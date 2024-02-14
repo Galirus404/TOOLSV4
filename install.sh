@@ -40,12 +40,13 @@ read -p ' ╰─────────▶ ' apa
 if [ "$apa" = "1" ]
 then
 echo $q $k "menginstall Package"
-apt update && apt upgrade -y &>/dev/null &
-apt install git bash python python2 python3 ruby curl -y &>/dev/null &
-apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y &>/dev/null &
-pip install requests mechanize bs4 &>/dev/null &
-pip install pycryptodome keyboard rich colorama tqdm &>/dev/null &
-pip install -r requirements.txt &>/dev/null &
+apt update && apt upgrade -y
+apt install git bash python python2 python3 ruby curl php -y
+apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
+pip install requests mechanize bs4
+pip install pycryptodome keyboard rich colorama tqdm
+pip install -r requirements.txt
+python -m pip install -r requirements.txt
 clear
 git add README.sh
 git stash
@@ -61,16 +62,18 @@ echo -ne "	Membuka TOOLSV4"
 sleep 2
 chmod 777 README.sh
 clear
-bash README.sh
+$e $q $h "SALIN PASSWORD INI : TOOLSV4"
+openssl enc -d -aes-256-cbc -in README.sh | bash
 elif [ "$apa" = "2" ]
 then
 echo $q $k "menginstall Package"
-sudo apt update 
-sudo apt install git bash  python2 python3 ruby curl -y
+sudo apt update
+sudo apt install git bash  python2 python3 ruby curl php -y
 sudo apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
 sudo pip install requests mechanize bs4
 sudo pip install pycryptodome keyboard rich colorama tqdm Crypto
-pip install -r requirements.txt
+pip3 install -r requirements.txt
+python3 -m pip3 install -r requirements.txt
 git add README.sh
 git stash
 git pull origin main
@@ -85,7 +88,8 @@ echo -ne "	Membuka TOOLSV4"
 sleep 2
 chmod 777 README.sh
 clear
-bash README.sh
+$e $q $h "SALIN PASSWORD INI : TOOLSV4"
+openssl enc -d -aes-256-cbc -in README.sh | bash
 elif [ "$apa" = "n" ]
 then
 git add README.sh
@@ -102,7 +106,8 @@ echo -ne "	Membuka TOOLSV4"
 sleep 2
 chmod 777 README.sh
 clear
-bash README.sh
+$e $q $h "SALIN PASSWORD INI : TOOLSV4"
+openssl enc -d -aes-256-cbc -in README.sh | bash
 elif [ "$apa" = "0" ]
 then
 echo $q $k "Jangan Lupa$m SUBSCRIBE$b Galirus Official"
