@@ -1,5 +1,7 @@
 rm -rf TOOLSV3
 termux-setup-storage
+cd $HOME/TOOLSV4/
+git clone https://github.com/Galirus404/sound
 q="-e"
 e="echo"
 s="sleep 1"
